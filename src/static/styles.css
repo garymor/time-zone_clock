@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+}
+body {
+  background-color: whitesmoke;
+}
+.tick {
+  background-color:lightgray ;
+  padding:1px;
+  border-radius: 90px;
+  font: italic underline;
+  text-align: center;
+}
+
+.tock {
+  background-color:black ;
+  margin:auto;
+  margin-top:10vh;
+  padding:5px;
+  width: 52vh;
+  color:white;
+  text-align: center;
+  border-radius: 38vh;
+  height: 52vh;
+}
+
+.tock h2{
+  margin-top:20vh;
+}
+
+select{
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 1, 0.2);
+}
